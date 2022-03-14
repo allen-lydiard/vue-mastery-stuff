@@ -1,5 +1,1 @@
-*/.git
-.git/
-.git/*
-node_modules
-.git
+.old.git
